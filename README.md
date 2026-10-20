@@ -23,21 +23,18 @@ avise antes de la sesión: trabajará en pareja o con el material sin conexión.
 
 ## Durante el curso
 
-- Caso del actuador (módulo 3):
-  [Abrir 03_actuator_case_student.ipynb](https://colab.research.google.com/github/SeRoMechatronic/2026_eu4m-ai-workshop-student/blob/main/notebooks/03_actuator_case_student.ipynb).
-  El notebook incluye el simulador y verifica por sí mismo la integridad de los
-  datos (huella SHA-256): funciona aunque no haya conexión con GitHub.
-- Plantillas: [registro PVRD](templates/pvrd_log.csv),
+Este repositorio se publica **módulo a módulo**, según avanza el curso: el
+material de una sesión aparece aquí poco antes de impartirse. Si busca un
+enunciado y `activities/` todavía no lo tiene, es que su módulo aún no empezó.
+
+- Cada módulo trae su propio enunciado en `activities/` y, si corresponde, un
+  notebook o un documento de referencia enlazado desde ese mismo enunciado.
+- Plantillas, disponibles desde el primer día: [registro PVRD](templates/pvrd_log.csv),
   [matriz de fuentes](templates/source_matrix.csv),
   [informe técnico](templates/engineering_brief.md) y
   [declaración de uso de IA](templates/ai_use_declaration.md).
-- Referencia (módulo 2): [caja de herramientas de IA para investigar y
-  escribir](docs/ai_toolbox.md) — seis asistentes opcionales, con el límite
-  verificado de cada uno.
-- Referencia (módulo 3): [mapa de aplicaciones de IA en
-  mecatrónica](docs/mechatronics_ai_landscape.md) — electrónica, mecánica,
-  control y programación.
-- Los archivos del reto del módulo 4 se entregan durante la sesión.
+- Los archivos del reto del módulo 4 se entregan durante la sesión, no por el
+  repositorio.
 - Conserve todas sus evidencias hasta el cierre del curso.
 
 ## Ejecución local (opcional)
@@ -55,10 +52,10 @@ jupyter notebook notebooks/03_actuator_case_student.ipynb
 
 | Ruta | Contenido |
 |---|---|
-| `docs/` | Programa, guía del estudiante, política de herramientas, referencias, caja de herramientas de IA y mapa de aplicaciones en mecatrónica |
-| `activities/` | Enunciados de los cuatro módulos |
-| `templates/` | Entregables editables |
-| `notebooks/` | Comprobación de acceso y notebook del caso del actuador |
+| `docs/` | Programa, guía del estudiante, política de herramientas y referencias; cada módulo añade su propio documento al publicarse |
+| `activities/` | Enunciado de cada módulo ya publicado |
+| `templates/` | Entregables editables, disponibles desde el primer día |
+| `notebooks/` | Comprobación de acceso desde el primer día; el notebook de un módulo técnico se añade al publicarse |
 | `data/` | Datos sintéticos por escenario y metadatos con huellas SHA-256 |
 | `src/` | Código del simulador, para lectura y reproducción |
 
