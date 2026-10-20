@@ -31,6 +31,12 @@ avise antes de la sesión: trabajará en pareja o con el material sin conexión.
   [matriz de fuentes](templates/source_matrix.csv),
   [informe técnico](templates/engineering_brief.md) y
   [declaración de uso de IA](templates/ai_use_declaration.md).
+- Referencia (módulo 2): [caja de herramientas de IA para investigar y
+  escribir](docs/ai_toolbox.md) — seis asistentes opcionales, con el límite
+  verificado de cada uno.
+- Referencia (módulo 3): [mapa de aplicaciones de IA en
+  mecatrónica](docs/mechatronics_ai_landscape.md) — electrónica, mecánica,
+  control y programación.
 - Los archivos del reto del módulo 4 se entregan durante la sesión.
 - Conserve todas sus evidencias hasta el cierre del curso.
 
@@ -49,7 +55,7 @@ jupyter notebook notebooks/03_actuator_case_student.ipynb
 
 | Ruta | Contenido |
 |---|---|
-| `docs/` | Programa, guía del estudiante, política de herramientas y referencias |
+| `docs/` | Programa, guía del estudiante, política de herramientas, referencias, caja de herramientas de IA y mapa de aplicaciones en mecatrónica |
 | `activities/` | Enunciados de los cuatro módulos |
 | `templates/` | Entregables editables |
 | `notebooks/` | Comprobación de acceso y notebook del caso del actuador |

@@ -12,7 +12,9 @@ de un sesgo del sensor en un sistema de control de posición?
 ## Material
 
 Use [el paquete de fuentes](../docs/source_packet.md) y la
-[matriz de fuentes](../templates/source_matrix.csv).
+[matriz de fuentes](../templates/source_matrix.csv). La
+[caja de herramientas de IA](../docs/ai_toolbox.md) es opcional: ninguna
+sustituye la verificación que pide esta actividad.
 
 ## Tareas
 

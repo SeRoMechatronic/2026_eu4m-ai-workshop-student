@@ -7,6 +7,11 @@
 
 ## Contexto
 
+Este caso profundiza en control y diagnóstico. El
+[mapa de aplicaciones de IA en mecatrónica](../docs/mechatronics_ai_landscape.md)
+sitúa electrónica, mecánica, control y programación en el mismo criterio de
+verificación.
+
 Una masa de 1,2 kg se mueve en una dimensión mediante un controlador PD. El
 dataset incluye tres escenarios: nominal, pérdida de eficacia del actuador y sesgo
 del sensor. Los parámetros varían ligeramente entre ejecuciones.
