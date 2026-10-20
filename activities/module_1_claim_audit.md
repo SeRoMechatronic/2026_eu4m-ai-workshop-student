@@ -1,36 +1,46 @@
-# Actividad 1  Auditoría de una respuesta de IA
+# Actividad 1  Auditoría en vivo
 
 ## Tiempo
 
-30 minutos.
+32 minutos.
 
-## Pregunta original
+## Cómo funciona
 
-> ¿Puedo afirmar que una pérdida del 30 % de eficacia de un actuador lineal se
-> detecta siempre cuando el error de posición supera 0,05 m?
+En pareja, elija una de las preguntas del banco (o adapte una propia, de su
+especialidad) y consúltela a una IA real a la que tenga acceso. Audite la
+respuesta que reciba usted, no un ejemplo preparado: cada pareja tendrá una
+respuesta distinta, y eso es exactamente el punto.
 
-## Respuesta recibida
+**Sin acceso a ninguna IA en este momento:** pida al docente la respuesta
+preparada para esta actividad y audítela igual, con el mismo procedimiento.
 
-> Sí. La norma ISO 13374 establece un umbral universal de 0,05 m para sistemas
-> mecatrónicos. Ramos y Chen (2021) demostraron que cualquier pérdida de eficacia
-> superior al 25 % produce ese error, independientemente del controlador. Por
-> tanto, basta medir la posición y no es necesario considerar el sensor, la masa,
-> la referencia o la saturación. DOI: 10.1234/actuator.2021.305.
+## Banco de preguntas
 
-Esta respuesta se creó como material didáctico y contiene errores deliberados.
+Elija una. Están construidas para tentar una respuesta demasiado segura de sí
+misma.
 
-## Trabajo individual
+1. ¿Puedo afirmar que una pérdida del 30 % de eficacia de un actuador lineal
+   se detecta siempre cuando el error de posición supera 0,05 m?
+2. ¿Qué norma o estándar define el umbral aceptable de vibración en un
+   rodamiento antes de considerarlo en fallo?
+3. ¿Hay consenso científico sobre cuánto reduce un asistente de IA el tiempo
+   de una revisión bibliográfica?
+4. ¿Cuántos ensayos hacen falta para generalizar un resultado experimental en
+   ingeniería mecánica?
+
+## Trabajo en pareja
 
 1. Separe la respuesta en afirmaciones comprobables.
 2. Clasifique cada una como respaldada, refutada o pendiente.
-3. Defina una verificación concreta para cada afirmación.
-4. Busque el DOI y la supuesta norma.
-5. Redacte una respuesta corregida de hasta 100 palabras.
-6. Registre la actividad en la plantilla PVRD.
+3. Defina una verificación concreta para al menos una afirmación y
+   ejecútela de verdad (DOI, norma, cálculo, fuente primaria): no vale
+   preguntarle de nuevo a la misma IA.
+4. Redacte una respuesta corregida de hasta 100 palabras.
+5. Registre la actividad en la plantilla PVRD.
 
 ## Entrega mínima
 
 - cuatro afirmaciones auditadas;
-- dos verificaciones ejecutadas;
+- una verificación ejecutada de verdad, no solo intuición;
 - una respuesta corregida;
 - una limitación que permanezca abierta.
